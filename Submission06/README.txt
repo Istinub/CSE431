@@ -23,9 +23,10 @@ Individual communication with ST in official discord channel of ST with
 2. Mohammed Julfikar Ali Mahbub
 
 Downloaded Free tutorial From TorrentBD:
-1. https://www.torrentbd.net/torrents-details.php?id=1042940 (completed before paper project)
-2. https://www.torrentbd.net/torrents-details.php?id=323603 (On going for upcoming project)
-
+1. Udemy- Natural Language Processing (NLP) in Python with 8 Projects (completed before paper project)
+url: https://www.torrentbd.net/torrents-details.php?id=1042940
+2. Deep Learning and NLP A-Z™: How to create a ChatBot | Udemy (On going for upcoming project)
+url: https://www.torrentbd.net/torrents-details.php?id=323603
 
 Submitter:
 18101045 Istinub Azad
